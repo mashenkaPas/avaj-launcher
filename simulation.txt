@@ -1,0 +1,500 @@
+Tower says: Baloon#B1(8671427163940211113) registered to weather tower.
+Tower says: Baloon#B2(5854260792180097369) registered to weather tower.
+Tower says: JetPlane#J1(4114204150086651231) registered to weather tower.
+Tower says: Helicopter#H1(3460061135441642538) registered to weather tower.
+Tower says: Helicopter#H2(7156056535065183947) registered to weather tower.
+Tower says: Helicopter#H3(338032440844766072) registered to weather tower.
+Tower says: Baloon#B3(6612751561133474372) registered to weather tower.
+Tower says: JetPlane#J2(974154217643592509) registered to weather tower.
+Tower says: Helicopter#H4(9194748605969419865) registered to weather tower.
+Baloon#B1(8671427163940211113):  Damn you rain! You messed up my baloon.
+Baloon#B2(5854260792180097369): It's snowing. We're gonna crash.
+JetPlane#J1(4114204150086651231): Summer again, sunny weather.
+Helicopter#H1(3460061135441642538): so rainy, please help.
+Helicopter#H2(7156056535065183947): i can't see, too fogy.
+Helicopter#H3(338032440844766072): i can't see, too fogy.
+Baloon#B3(6612751561133474372):  Damn you rain! You messed up my baloon.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+Helicopter#H4(9194748605969419865): so rainy, please help.
+Baloon#B1(8671427163940211113): Damn you fog! I can't see.
+Baloon#B2(5854260792180097369):  Damn you rain! You messed up my baloon.
+JetPlane#J1(4114204150086651231):  where is my coat,it is winter here.
+Helicopter#H1(3460061135441642538): i can't see, too fogy.
+Helicopter#H2(7156056535065183947): Summer again, sunny weather.
+Helicopter#H3(338032440844766072): Summer again, sunny weather.
+Baloon#B3(6612751561133474372):  Damn you rain! You messed up my baloon.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+Helicopter#H4(9194748605969419865): Summer again, sunny weather.
+Baloon#B1(8671427163940211113): Damn you fog! I can't see.
+Baloon#B2(5854260792180097369):  Damn you rain! You messed up my baloon.
+JetPlane#J1(4114204150086651231): i can't see, too fogy.
+Helicopter#H1(3460061135441642538): so rainy, please help.
+Helicopter#H2(7156056535065183947): so rainy, please help.
+Helicopter#H3(338032440844766072): Summer again, sunny weather.
+Baloon#B3(6612751561133474372):  Damn you rain! You messed up my baloon.
+JetPlane#J2(974154217643592509): i can't see, too fogy.
+Helicopter#H4(9194748605969419865): where is my coat,it is winter here.
+Tower says: Baloon#B1(8671427163940211113) unregistered from weather tower.
+JetPlane#J1(4114204150086651231):  where is my coat,it is winter here.
+Helicopter#H1(3460061135441642538): so rainy, please help.
+Helicopter#H2(7156056535065183947): i can't see, too fogy.
+Helicopter#H3(338032440844766072): where is my coat,it is winter here.
+Baloon#B3(6612751561133474372): Damn you fog! I can't see.
+JetPlane#J2(974154217643592509): i can't see, too fogy.
+Helicopter#H4(9194748605969419865): Summer again, sunny weather.
+Baloon#B2(5854260792180097369): It's snowing. We're gonna crash.
+JetPlane#J1(4114204150086651231): Summer again, sunny weather.
+Helicopter#H1(3460061135441642538): where is my coat,it is winter here.
+Helicopter#H2(7156056535065183947): i can't see, too fogy.
+Helicopter#H3(338032440844766072): so rainy, please help.
+Baloon#B3(6612751561133474372): Let's enjoy the good weather and take some pics.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+Helicopter#H4(9194748605969419865): i can't see, too fogy.
+Baloon#B2(5854260792180097369):  Damn you rain! You messed up my baloon.
+JetPlane#J1(4114204150086651231): i can't see, too fogy.
+Helicopter#H1(3460061135441642538): Summer again, sunny weather.
+Helicopter#H2(7156056535065183947): so rainy, please help.
+Helicopter#H3(338032440844766072): so rainy, please help.
+Baloon#B3(6612751561133474372): It's snowing. We're gonna crash.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+Helicopter#H4(9194748605969419865): where is my coat,it is winter here.
+Baloon#B2(5854260792180097369): It's snowing. We're gonna crash.
+JetPlane#J1(4114204150086651231): i can't see, too fogy.
+Tower says: Helicopter#H1(3460061135441642538) unregistered from weather tower.
+Helicopter#H3(338032440844766072): so rainy, please help.
+Tower says: Baloon#B3(6612751561133474372) unregistered from weather tower.
+Helicopter#H4(9194748605969419865): i can't see, too fogy.
+Baloon#B2(5854260792180097369):  Damn you rain! You messed up my baloon.
+JetPlane#J1(4114204150086651231): so rainy, please help.
+Helicopter#H2(7156056535065183947): where is my coat,it is winter here.
+Helicopter#H3(338032440844766072): where is my coat,it is winter here.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Helicopter#H4(9194748605969419865): where is my coat,it is winter here.
+Tower says: Baloon#B2(5854260792180097369) unregistered from weather tower.
+Helicopter#H2(7156056535065183947): where is my coat,it is winter here.
+Helicopter#H3(338032440844766072): i can't see, too fogy.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Helicopter#H4(9194748605969419865): so rainy, please help.
+JetPlane#J1(4114204150086651231): so rainy, please help.
+Helicopter#H2(7156056535065183947): Summer again, sunny weather.
+Helicopter#H3(338032440844766072): where is my coat,it is winter here.
+JetPlane#J2(974154217643592509): so rainy, please help.
+Helicopter#H4(9194748605969419865): where is my coat,it is winter here.
+JetPlane#J1(4114204150086651231): so rainy, please help.
+Helicopter#H2(7156056535065183947): i can't see, too fogy.
+Helicopter#H3(338032440844766072): where is my coat,it is winter here.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+Helicopter#H4(9194748605969419865): Summer again, sunny weather.
+JetPlane#J1(4114204150086651231): so rainy, please help.
+Helicopter#H2(7156056535065183947): Summer again, sunny weather.
+Helicopter#H3(338032440844766072): i can't see, too fogy.
+JetPlane#J2(974154217643592509): i can't see, too fogy.
+Helicopter#H4(9194748605969419865): Summer again, sunny weather.
+JetPlane#J1(4114204150086651231): Summer again, sunny weather.
+Helicopter#H2(7156056535065183947): Summer again, sunny weather.
+Helicopter#H3(338032440844766072): Summer again, sunny weather.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Helicopter#H4(9194748605969419865): i can't see, too fogy.
+JetPlane#J1(4114204150086651231):  where is my coat,it is winter here.
+Helicopter#H2(7156056535065183947): so rainy, please help.
+Helicopter#H3(338032440844766072): i can't see, too fogy.
+JetPlane#J2(974154217643592509): i can't see, too fogy.
+Helicopter#H4(9194748605969419865): i can't see, too fogy.
+JetPlane#J1(4114204150086651231):  where is my coat,it is winter here.
+Helicopter#H2(7156056535065183947): i can't see, too fogy.
+Helicopter#H3(338032440844766072): Summer again, sunny weather.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Helicopter#H4(9194748605969419865): so rainy, please help.
+JetPlane#J1(4114204150086651231):  where is my coat,it is winter here.
+Helicopter#H2(7156056535065183947): i can't see, too fogy.
+Helicopter#H3(338032440844766072): where is my coat,it is winter here.
+JetPlane#J2(974154217643592509): i can't see, too fogy.
+Helicopter#H4(9194748605969419865): so rainy, please help.
+JetPlane#J1(4114204150086651231): Summer again, sunny weather.
+Helicopter#H2(7156056535065183947): i can't see, too fogy.
+Helicopter#H3(338032440844766072): so rainy, please help.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Helicopter#H4(9194748605969419865): where is my coat,it is winter here.
+JetPlane#J1(4114204150086651231): i can't see, too fogy.
+Helicopter#H2(7156056535065183947): Summer again, sunny weather.
+Helicopter#H3(338032440844766072): so rainy, please help.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Helicopter#H4(9194748605969419865): i can't see, too fogy.
+JetPlane#J1(4114204150086651231): Summer again, sunny weather.
+Helicopter#H2(7156056535065183947): i can't see, too fogy.
+Helicopter#H3(338032440844766072): so rainy, please help.
+JetPlane#J2(974154217643592509): so rainy, please help.
+Helicopter#H4(9194748605969419865): Summer again, sunny weather.
+JetPlane#J1(4114204150086651231): i can't see, too fogy.
+Helicopter#H2(7156056535065183947): so rainy, please help.
+Helicopter#H3(338032440844766072): so rainy, please help.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+Helicopter#H4(9194748605969419865): so rainy, please help.
+Tower says: JetPlane#J1(4114204150086651231) unregistered from weather tower.
+Helicopter#H3(338032440844766072): where is my coat,it is winter here.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Helicopter#H4(9194748605969419865): so rainy, please help.
+Helicopter#H2(7156056535065183947): Summer again, sunny weather.
+Helicopter#H3(338032440844766072): so rainy, please help.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+JetPlane#J2(974154217643592509): Summer again, sunny weather.
+Tower says: Helicopter#H4(9194748605969419865) unregistered from weather tower.
+Helicopter#H2(7156056535065183947): Summer again, sunny weather.
+Helicopter#H3(338032440844766072): so rainy, please help.
+JetPlane#J2(974154217643592509): i can't see, too fogy.
+Helicopter#H2(7156056535065183947): where is my coat,it is winter here.
+Helicopter#H3(338032440844766072): i can't see, too fogy.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Helicopter#H2(7156056535065183947): so rainy, please help.
+Helicopter#H3(338032440844766072): Summer again, sunny weather.
+JetPlane#J2(974154217643592509): i can't see, too fogy.
+Helicopter#H2(7156056535065183947): so rainy, please help.
+Helicopter#H3(338032440844766072): where is my coat,it is winter here.
+JetPlane#J2(974154217643592509):  where is my coat,it is winter here.
+Tower says: Baloon#B1(4787465969437199137) registered to weather tower.
+Tower says: Baloon#B2(2554852798571956793) registered to weather tower.
+Tower says: JetPlane#J1(8879453541428381387) registered to weather tower.
+Tower says: Helicopter#H1(6671812762163367183) registered to weather tower.
+Tower says: Helicopter#H2(7947069824836977930) registered to weather tower.
+Tower says: Helicopter#H3(8154411282969346807) registered to weather tower.
+Tower says: Baloon#B3(1532424161793556933) registered to weather tower.
+Tower says: JetPlane#J2(6600781232796290591) registered to weather tower.
+Tower says: Helicopter#H4(6517371863831629621) registered to weather tower.
+Baloon#B1(4787465969437199137): Let's enjoy the good weather and take some pics.
+Baloon#B2(2554852798571956793): It's snowing. We're gonna crash.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H1(6671812762163367183): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): where is my coat,it is winter here.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+Baloon#B3(1532424161793556933): Let's enjoy the good weather and take some pics.
+JetPlane#J2(6600781232796290591): i can't see, too fogy.
+Helicopter#H4(6517371863831629621): where is my coat,it is winter here.
+Baloon#B1(4787465969437199137):  Damn you rain! You messed up my baloon.
+Baloon#B2(2554852798571956793): Let's enjoy the good weather and take some pics.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H1(6671812762163367183): i can't see, too fogy.
+Helicopter#H2(7947069824836977930): i can't see, too fogy.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+Baloon#B3(1532424161793556933): Damn you fog! I can't see.
+JetPlane#J2(6600781232796290591): i can't see, too fogy.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+Baloon#B1(4787465969437199137): Let's enjoy the good weather and take some pics.
+Baloon#B2(2554852798571956793): It's snowing. We're gonna crash.
+JetPlane#J1(8879453541428381387):  where is my coat,it is winter here.
+Helicopter#H1(6671812762163367183): where is my coat,it is winter here.
+Helicopter#H2(7947069824836977930): where is my coat,it is winter here.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+Baloon#B3(1532424161793556933): Let's enjoy the good weather and take some pics.
+JetPlane#J2(6600781232796290591):  where is my coat,it is winter here.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+Baloon#B1(4787465969437199137): Damn you fog! I can't see.
+Baloon#B2(2554852798571956793):  Damn you rain! You messed up my baloon.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H1(6671812762163367183): i can't see, too fogy.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): where is my coat,it is winter here.
+Baloon#B3(1532424161793556933):  Damn you rain! You messed up my baloon.
+JetPlane#J2(6600781232796290591): i can't see, too fogy.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+Baloon#B1(4787465969437199137):  Damn you rain! You messed up my baloon.
+Baloon#B2(2554852798571956793): Damn you fog! I can't see.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H1(6671812762163367183): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): where is my coat,it is winter here.
+Baloon#B3(1532424161793556933): Damn you fog! I can't see.
+JetPlane#J2(6600781232796290591): so rainy, please help.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+Baloon#B1(4787465969437199137): Let's enjoy the good weather and take some pics.
+Baloon#B2(2554852798571956793): It's snowing. We're gonna crash.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H1(6671812762163367183): i can't see, too fogy.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): i can't see, too fogy.
+Baloon#B3(1532424161793556933): Damn you fog! I can't see.
+JetPlane#J2(6600781232796290591): so rainy, please help.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+Baloon#B1(4787465969437199137): Let's enjoy the good weather and take some pics.
+Baloon#B2(2554852798571956793): It's snowing. We're gonna crash.
+JetPlane#J1(8879453541428381387):  where is my coat,it is winter here.
+Helicopter#H1(6671812762163367183): i can't see, too fogy.
+Helicopter#H2(7947069824836977930): Summer again, sunny weather.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+Baloon#B3(1532424161793556933): It's snowing. We're gonna crash.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+Baloon#B1(4787465969437199137):  Damn you rain! You messed up my baloon.
+Tower says: Baloon#B2(2554852798571956793) unregistered from weather tower.
+Helicopter#H1(6671812762163367183): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): i can't see, too fogy.
+Tower says: Baloon#B3(1532424161793556933) unregistered from weather tower.
+Helicopter#H4(6517371863831629621): Summer again, sunny weather.
+Baloon#B1(4787465969437199137): Damn you fog! I can't see.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H1(6671812762163367183): where is my coat,it is winter here.
+Helicopter#H2(7947069824836977930): i can't see, too fogy.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+JetPlane#J2(6600781232796290591): i can't see, too fogy.
+Helicopter#H4(6517371863831629621): Summer again, sunny weather.
+Tower says: Baloon#B1(4787465969437199137) unregistered from weather tower.
+Helicopter#H1(6671812762163367183): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): Summer again, sunny weather.
+Helicopter#H3(8154411282969346807): where is my coat,it is winter here.
+JetPlane#J2(6600781232796290591): i can't see, too fogy.
+Helicopter#H4(6517371863831629621): i can't see, too fogy.
+JetPlane#J1(8879453541428381387): i can't see, too fogy.
+Tower says: Helicopter#H1(6671812762163367183) unregistered from weather tower.
+Helicopter#H3(8154411282969346807): i can't see, too fogy.
+JetPlane#J2(6600781232796290591):  where is my coat,it is winter here.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): where is my coat,it is winter here.
+Helicopter#H3(8154411282969346807): i can't see, too fogy.
+JetPlane#J2(6600781232796290591): so rainy, please help.
+Helicopter#H4(6517371863831629621): where is my coat,it is winter here.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): Summer again, sunny weather.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+Helicopter#H4(6517371863831629621): Summer again, sunny weather.
+JetPlane#J1(8879453541428381387): so rainy, please help.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+JetPlane#J2(6600781232796290591): i can't see, too fogy.
+Helicopter#H4(6517371863831629621): Summer again, sunny weather.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+Helicopter#H4(6517371863831629621): i can't see, too fogy.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): Summer again, sunny weather.
+Helicopter#H3(8154411282969346807): where is my coat,it is winter here.
+JetPlane#J2(6600781232796290591): so rainy, please help.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+JetPlane#J1(8879453541428381387): i can't see, too fogy.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+Helicopter#H4(6517371863831629621): Summer again, sunny weather.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): Summer again, sunny weather.
+Helicopter#H3(8154411282969346807): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): so rainy, please help.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+JetPlane#J1(8879453541428381387): i can't see, too fogy.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): i can't see, too fogy.
+JetPlane#J2(6600781232796290591): i can't see, too fogy.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+JetPlane#J1(8879453541428381387): so rainy, please help.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): where is my coat,it is winter here.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+Helicopter#H4(6517371863831629621): where is my coat,it is winter here.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): Summer again, sunny weather.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+JetPlane#J1(8879453541428381387): i can't see, too fogy.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): i can't see, too fogy.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+Helicopter#H4(6517371863831629621): i can't see, too fogy.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): i can't see, too fogy.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+JetPlane#J2(6600781232796290591):  where is my coat,it is winter here.
+Helicopter#H4(6517371863831629621): i can't see, too fogy.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): Summer again, sunny weather.
+Helicopter#H3(8154411282969346807): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): so rainy, please help.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+JetPlane#J1(8879453541428381387):  where is my coat,it is winter here.
+Helicopter#H2(7947069824836977930): i can't see, too fogy.
+Helicopter#H3(8154411282969346807): where is my coat,it is winter here.
+JetPlane#J2(6600781232796290591): i can't see, too fogy.
+Helicopter#H4(6517371863831629621): Summer again, sunny weather.
+JetPlane#J1(8879453541428381387): Summer again, sunny weather.
+Helicopter#H2(7947069824836977930): so rainy, please help.
+Helicopter#H3(8154411282969346807): so rainy, please help.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+JetPlane#J2(6600781232796290591): Summer again, sunny weather.
+Helicopter#H4(6517371863831629621): so rainy, please help.
+Tower says: Baloon#B1(1363048261455857350) registered to weather tower.
+Tower says: Baloon#B2(5561652746388458867) registered to weather tower.
+Tower says: JetPlane#J1(8272969383649889196) registered to weather tower.
+Tower says: Helicopter#H1(6850535351879878404) registered to weather tower.
+Tower says: Helicopter#H2(3733677754877035164) registered to weather tower.
+Tower says: Helicopter#H3(6272897608386430580) registered to weather tower.
+Tower says: Baloon#B3(5618295750845418924) registered to weather tower.
+Tower says: JetPlane#J2(366231040591021910) registered to weather tower.
+Tower says: Helicopter#H4(5278710333929308474) registered to weather tower.
+Baloon#B1(1363048261455857350):  Damn you rain! You messed up my baloon.
+Baloon#B2(5561652746388458867): It's snowing. We're gonna crash.
+JetPlane#J1(8272969383649889196): i can't see, too fogy.
+Helicopter#H1(6850535351879878404): so rainy, please help.
+Helicopter#H2(3733677754877035164): Summer again, sunny weather.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+Baloon#B3(5618295750845418924):  Damn you rain! You messed up my baloon.
+JetPlane#J2(366231040591021910): so rainy, please help.
+Helicopter#H4(5278710333929308474): Summer again, sunny weather.
+Tower says: Baloon#B1(1363048261455857350) unregistered from weather tower.
+JetPlane#J1(8272969383649889196): i can't see, too fogy.
+Helicopter#H1(6850535351879878404): Summer again, sunny weather.
+Helicopter#H2(3733677754877035164): so rainy, please help.
+Helicopter#H3(6272897608386430580): i can't see, too fogy.
+Baloon#B3(5618295750845418924):  Damn you rain! You messed up my baloon.
+JetPlane#J2(366231040591021910): so rainy, please help.
+Helicopter#H4(5278710333929308474): where is my coat,it is winter here.
+Baloon#B2(5561652746388458867): It's snowing. We're gonna crash.
+JetPlane#J1(8272969383649889196): so rainy, please help.
+Helicopter#H1(6850535351879878404): where is my coat,it is winter here.
+Helicopter#H2(3733677754877035164): Summer again, sunny weather.
+Helicopter#H3(6272897608386430580): so rainy, please help.
+Baloon#B3(5618295750845418924): Let's enjoy the good weather and take some pics.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): so rainy, please help.
+Baloon#B2(5561652746388458867): Damn you fog! I can't see.
+JetPlane#J1(8272969383649889196): so rainy, please help.
+Helicopter#H1(6850535351879878404): i can't see, too fogy.
+Helicopter#H2(3733677754877035164): Summer again, sunny weather.
+Helicopter#H3(6272897608386430580): i can't see, too fogy.
+Baloon#B3(5618295750845418924): Let's enjoy the good weather and take some pics.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): Summer again, sunny weather.
+Baloon#B2(5561652746388458867):  Damn you rain! You messed up my baloon.
+JetPlane#J1(8272969383649889196):  where is my coat,it is winter here.
+Helicopter#H1(6850535351879878404): i can't see, too fogy.
+Helicopter#H2(3733677754877035164): Summer again, sunny weather.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+Baloon#B3(5618295750845418924): Let's enjoy the good weather and take some pics.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): where is my coat,it is winter here.
+Baloon#B2(5561652746388458867): Damn you fog! I can't see.
+JetPlane#J1(8272969383649889196): Summer again, sunny weather.
+Tower says: Helicopter#H1(6850535351879878404) unregistered from weather tower.
+Helicopter#H3(6272897608386430580): Summer again, sunny weather.
+Baloon#B3(5618295750845418924): It's snowing. We're gonna crash.
+JetPlane#J2(366231040591021910):  where is my coat,it is winter here.
+Helicopter#H4(5278710333929308474): where is my coat,it is winter here.
+Baloon#B2(5561652746388458867): It's snowing. We're gonna crash.
+JetPlane#J1(8272969383649889196): Summer again, sunny weather.
+Helicopter#H2(3733677754877035164): Summer again, sunny weather.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+Baloon#B3(5618295750845418924): Damn you fog! I can't see.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): so rainy, please help.
+Baloon#B2(5561652746388458867): Damn you fog! I can't see.
+JetPlane#J1(8272969383649889196):  where is my coat,it is winter here.
+Helicopter#H2(3733677754877035164): Summer again, sunny weather.
+Helicopter#H3(6272897608386430580): Summer again, sunny weather.
+Baloon#B3(5618295750845418924): It's snowing. We're gonna crash.
+JetPlane#J2(366231040591021910):  where is my coat,it is winter here.
+Helicopter#H4(5278710333929308474): so rainy, please help.
+Baloon#B2(5561652746388458867):  Damn you rain! You messed up my baloon.
+JetPlane#J1(8272969383649889196): so rainy, please help.
+Helicopter#H2(3733677754877035164): so rainy, please help.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+Baloon#B3(5618295750845418924): Let's enjoy the good weather and take some pics.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): Summer again, sunny weather.
+Tower says: Baloon#B2(5561652746388458867) unregistered from weather tower.
+Helicopter#H2(3733677754877035164): i can't see, too fogy.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+Baloon#B3(5618295750845418924):  Damn you rain! You messed up my baloon.
+JetPlane#J2(366231040591021910): so rainy, please help.
+Helicopter#H4(5278710333929308474): i can't see, too fogy.
+JetPlane#J1(8272969383649889196): Summer again, sunny weather.
+Helicopter#H2(3733677754877035164): i can't see, too fogy.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+Tower says: Baloon#B3(5618295750845418924) unregistered from weather tower.
+Helicopter#H4(5278710333929308474): Summer again, sunny weather.
+JetPlane#J1(8272969383649889196): Summer again, sunny weather.
+Helicopter#H2(3733677754877035164): so rainy, please help.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+JetPlane#J2(366231040591021910): so rainy, please help.
+Helicopter#H4(5278710333929308474): where is my coat,it is winter here.
+JetPlane#J1(8272969383649889196): i can't see, too fogy.
+Helicopter#H2(3733677754877035164): i can't see, too fogy.
+Helicopter#H3(6272897608386430580): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): Summer again, sunny weather.
+Helicopter#H4(5278710333929308474): Summer again, sunny weather.
+JetPlane#J1(8272969383649889196):  where is my coat,it is winter here.
+Helicopter#H2(3733677754877035164): so rainy, please help.
+Helicopter#H3(6272897608386430580): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): where is my coat,it is winter here.
+JetPlane#J1(8272969383649889196): so rainy, please help.
+Helicopter#H2(3733677754877035164): where is my coat,it is winter here.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): so rainy, please help.
+JetPlane#J1(8272969383649889196): i can't see, too fogy.
+Helicopter#H2(3733677754877035164): i can't see, too fogy.
+Helicopter#H3(6272897608386430580): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): so rainy, please help.
+Helicopter#H4(5278710333929308474): so rainy, please help.
+JetPlane#J1(8272969383649889196): i can't see, too fogy.
+Helicopter#H2(3733677754877035164): where is my coat,it is winter here.
+Helicopter#H3(6272897608386430580): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): Summer again, sunny weather.
+JetPlane#J1(8272969383649889196): Summer again, sunny weather.
+Helicopter#H2(3733677754877035164): where is my coat,it is winter here.
+Helicopter#H3(6272897608386430580): where is my coat,it is winter here.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): so rainy, please help.
+JetPlane#J1(8272969383649889196): i can't see, too fogy.
+Helicopter#H2(3733677754877035164): so rainy, please help.
+Helicopter#H3(6272897608386430580): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): Summer again, sunny weather.
+JetPlane#J1(8272969383649889196): Summer again, sunny weather.
+Helicopter#H2(3733677754877035164): so rainy, please help.
+Helicopter#H3(6272897608386430580): i can't see, too fogy.
+JetPlane#J2(366231040591021910): so rainy, please help.
+Helicopter#H4(5278710333929308474): i can't see, too fogy.
+JetPlane#J1(8272969383649889196):  where is my coat,it is winter here.
+Helicopter#H2(3733677754877035164): so rainy, please help.
+Helicopter#H3(6272897608386430580): i can't see, too fogy.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+Helicopter#H4(5278710333929308474): Summer again, sunny weather.
+JetPlane#J1(8272969383649889196): i can't see, too fogy.
+Helicopter#H2(3733677754877035164): so rainy, please help.
+Helicopter#H3(6272897608386430580): i can't see, too fogy.
+JetPlane#J2(366231040591021910): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): Summer again, sunny weather.
+Helicopter#H4(5278710333929308474): so rainy, please help.
+JetPlane#J1(8272969383649889196): Summer again, sunny weather.
+Helicopter#H2(3733677754877035164): i can't see, too fogy.
+Helicopter#H3(6272897608386430580): i can't see, too fogy.
+JetPlane#J2(366231040591021910): so rainy, please help.
+Tower says: Helicopter#H4(5278710333929308474) unregistered from weather tower.
+JetPlane#J1(8272969383649889196): i can't see, too fogy.
+Helicopter#H2(3733677754877035164): where is my coat,it is winter here.
+Tower says: Helicopter#H3(6272897608386430580) unregistered from weather tower.
+JetPlane#J1(8272969383649889196): Summer again, sunny weather.
+Helicopter#H2(3733677754877035164): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): i can't see, too fogy.
+JetPlane#J1(8272969383649889196):  where is my coat,it is winter here.
+Helicopter#H2(3733677754877035164): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): Summer again, sunny weather.
+JetPlane#J2(366231040591021910): Summer again, sunny weather.

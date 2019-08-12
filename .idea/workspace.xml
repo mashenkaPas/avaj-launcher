@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91e86d4c-e927-44c8-9015-792e4f8d9323" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/MyPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/Simulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/Tower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/WeatherTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/vechicles/Baloon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/vechicles/Helicopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/vechicles/JetPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/simulator/vechicles/MyMD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/weather/WeatherProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/simulator/vechicles/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AircraftFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/simulator/vechicles/AircraftFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Baloon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/weather/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/simulator/vechicles/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Helicopter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/JetPlane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Tower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WeatherProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/WeatherTower.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="avaj-launcher" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/com" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1P1Ak6Y9MRCAzbI2piM1iSE8yyy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company/simulation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Simulator">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.simulation.Main" />
+      <module name="avaj-launcher" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.simulator.Simulator" />
+      <module name="avaj-launcher" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$USER_HOME$/md5.txt&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Simulator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Simulator" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91e86d4c-e927-44c8-9015-792e4f8d9323" name="Default Changelist" comment="" />
+      <created>1565031368963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565031368963</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/avaj_launcher$Simulator.ic" NAME="Simulator Coverage Results" MODIFIED="1565490233200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.simulator.*</FILTER>
+    </SUITE>
+  </component>
+</project>
