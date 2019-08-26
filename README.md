@@ -7,8 +7,8 @@ Aim of this project is to implement an aircraft simulation program based on the 
 # UML Diagram
 ![alt text](/nfs/2018/m/mpas/Downloads/avaj_uml.jpg?raw=true "Title")
 # Compile and run
-git clone https://github.com/honoyr/avaj-launcher.git
-cd avaj-launcher/src/
+  git clone the project
+  cd avaj-launcher/src/
 
 ## Before launching make sure that you have Java installed and java & javac commands are available in your terminal. If not, click here to install Java for Mac.
 In the root of project folder run the commands given bellow:
