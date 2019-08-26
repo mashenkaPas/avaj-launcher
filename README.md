@@ -5,7 +5,7 @@ This project is the introduction to the Java world at 42. This is an implementat
 Aim of this project is to implement an aircraft simulation program based on the UML class diagram. All classes are required to be implemented respecting every detail provided in the diagram. If necessary, add more classes or include additional attributes, but changing access modifiers and class hireharchy for the classes provided in the diagram are forbidden.\
 
 # UML Diagram
-![alt text](/nfs/2018/m/mpas/Downloads/avaj_uml.jpg?raw=true "Title")
+![alt text](https://github.com/mashenkaPas/avaj-launcher/blob/master/avaj_uml.jpg)
 # Compile and run
   git clone the project
   cd avaj-launcher/src/
