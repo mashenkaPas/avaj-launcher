@@ -27,224 +27,225 @@ sh run.sh
 # Scenario file example
 The first line of the file contains a positive integer number. This number represents the number of times the simulation is run. In our case, this will be the number of times a weather change is triggered. Each following line describes an aircraft that will be part of the simulation, with this format: TYPE NAME LONGITUDE LATITUDE HEIGHT.
 
-25
-Baloon B1 2 3 20
-Baloon B2 1 8 66
-JetPlane J1 23 44 32
-Helicopter H1 654 33 20
-Helicopter H2 22 33 44
-Helicopter H3 98 68 99
-Baloon B3 102 22 34
-JetPlane J2 11 99 768
-Helicopter H4 223 23 54
+25<br/>
+Baloon B1 2 3 20 <br/>
+Baloon B2 1 8 66 <br/>
+JetPlane J1 23 44 32 <br/>
+Helicopter H1 654 33 20 <br/>
+Helicopter H2 22 33 44 <br/>
+Helicopter H3 98 68 99 <br/>
+Baloon B3 102 22 34 <br/>
+JetPlane J2 11 99 768 <br/>
+Helicopter H4 223 23 54 <br/>
 
 # Example of output
-
-Tower says: Baloon#B1(1) registered to weather tower.
-Tower says: Baloon#B2(2) registered to weather tower.
-Tower says: JetPlane#J1(3) registered to weather tower.
-Tower says: Helicopter#H1(4) registered to weather tower.
-Tower says: Helicopter#H2(5) registered to weather tower.
-Tower says: Helicopter#H3(6) registered to weather tower.
-Tower says: Baloon#B3(7) registered to weather tower.
-Tower says: JetPlane#J2(8) registered to weather tower.
-Tower says: Helicopter#H4(9) registered to weather tower.
-
-Simulation: 1
-Baloon#B1(1): There is some sun, let's enjoy good weather!
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): Gamn fog!
-Helicopter#H1(4): Winter is coming!
-Helicopter#H2(5): I see no ground!
-Helicopter#H3(6): It's so hot!
-Baloon#B3(7): It's rain! It messed up my baloon!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): It's so hot!
-
-Simulation: 2
-Baloon#B1(1): I hate fog, I cannot see anything at all!
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H1(4): This rain is so depressing...
-Helicopter#H2(5): Winter is coming!
-Helicopter#H3(6): I see no ground!
-Baloon#B3(7): It's rain! It messed up my baloon!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): This rain is so depressing...
-
-Simulation: 3
-Baloon#B1(1): It's snowing! We should be more careful!
-Baloon#B2(2): It's snowing! We should be more careful!
-JetPlane#J1(3): Watch out for lightnings!
-Helicopter#H1(4): It's so hot!
-Helicopter#H2(5): I see no ground!
-Helicopter#H3(6): It's so hot!
-Baloon#B3(7): There is some sun, let's enjoy good weather!
-JetPlane#J2(8): We are going to freeze!
-Helicopter#H4(9): This rain is so depressing...
-
-Simulation: 4
-Baloon#B1(1): It's rain! It messed up my baloon!
-Baloon#B2(2): It's snowing! We should be more careful!
-JetPlane#J1(3): Watch out for lightnings!
-Helicopter#H1(4): I see no ground!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): This rain is so depressing...
-Baloon#B3(7): It's snowing! We should be more careful!
-JetPlane#J2(8): Watch out for lightnings!
-Helicopter#H4(9): This rain is so depressing...
-
-Simulation: 5
-Baloon#B1(1): There is some sun, let's enjoy good weather!
-Baloon#B2(2): It's rain! It messed up my baloon!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H1(4): Winter is coming!
-Tower says: Helicopter#H1(4) unregistered from weather tower.
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): This rain is so depressing...
-Baloon#B3(7): I hate fog, I cannot see anything at all!
-JetPlane#J2(8): We are going to freeze!
-Helicopter#H4(9): This rain is so depressing...
-
-Simulation: 6
-Baloon#B1(1): There is some sun, let's enjoy good weather!
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H2(5): This rain is so depressing...
-Helicopter#H3(6): It's so hot!
-Baloon#B3(7): There is some sun, let's enjoy good weather!
-JetPlane#J2(8): Watch out for lightnings!
-Helicopter#H4(9): Winter is coming!
-
-Simulation: 7
-Baloon#B1(1): It's rain! It messed up my baloon!
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): I see no ground!
-Baloon#B3(7): I hate fog, I cannot see anything at all!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): Winter is coming!
-
-Simulation: 8
-Baloon#B1(1): There is some sun, let's enjoy good weather!
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H2(5): Winter is coming!
-Helicopter#H3(6): Winter is coming!
-Baloon#B3(7): I hate fog, I cannot see anything at all!
-JetPlane#J2(8): We are going to freeze!
-Helicopter#H4(9): This rain is so depressing...
-
-Simulation: 9
-Baloon#B1(1): I hate fog, I cannot see anything at all!
-Baloon#B2(2): It's rain! It messed up my baloon!
-JetPlane#J1(3): Watch out for lightnings!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): I see no ground!
-Baloon#B3(7): It's snowing! We should be more careful!
-Tower says: Baloon#B3(7) unregistered from weather tower.
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): This rain is so depressing...
-
-Simulation: 10
-Baloon#B1(1): It's rain! It messed up my baloon!
-Tower says: Baloon#B1(1) unregistered from weather tower.
-Baloon#B2(2): It's rain! It messed up my baloon!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H2(5): I see no ground!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): Winter is coming!
-
-Simulation: 11
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): Gamn fog!
-Helicopter#H2(5): Winter is coming!
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): I see no ground!
-
-Simulation: 12
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): It's so hot!
-
-Simulation: 13
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H2(5): It's so hot!
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): This sun is getting to my eyes!
-Helicopter#H4(9): Winter is coming!
-
-Simulation: 14
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): Gamn fog!
-Helicopter#H2(5): Winter is coming!
-Tower says: Helicopter#H2(5) unregistered from weather tower.
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): We are going to freeze!
-Helicopter#H4(9): Winter is coming!
-Tower says: Helicopter#H4(9) unregistered from weather tower.
-
-Simulation: 15
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): This sun is getting to my eyes!
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): This sun is getting to my eyes!
-
-Simulation: 16
-Baloon#B2(2): It's snowing! We should be more careful!
-JetPlane#J1(3): We are going to freeze!
-Helicopter#H3(6): This rain is so depressing...
-JetPlane#J2(8): Gamn fog!
-
-Simulation: 17
-Baloon#B2(2): There is some sun, let's enjoy good weather!
-JetPlane#J1(3): We are going to freeze!
-Tower says: JetPlane#J1(3) unregistered from weather tower.
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): Gamn fog!
-
-Simulation: 18
-Baloon#B2(2): It's rain! It messed up my baloon!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): We are going to freeze!
-
-Simulation: 19
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-Helicopter#H3(6): This rain is so depressing...
-JetPlane#J2(8): We are going to freeze!
-
-Simulation: 20
-Baloon#B2(2): It's snowing! We should be more careful!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): Watch out for lightnings!
-
-Simulation: 21
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): Gamn fog!
-
-Simulation: 22
-Baloon#B2(2): I hate fog, I cannot see anything at all!
-Tower says: Baloon#B2(2) unregistered from weather tower.
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): This sun is getting to my eyes!
-
-Simulation: 23
-Helicopter#H3(6): Winter is coming!
-JetPlane#J2(8): Watch out for lightnings!
-
-Simulation: 24
-Helicopter#H3(6): It's so hot!
-JetPlane#J2(8): This sun is getting to my eyes!
-
-Simulation: 25
-Helicopter#H3(6): I see no ground!
-JetPlane#J2(8): This sun is getting to my eyes!
 cat simulation.txt
+
+Tower says: Baloon#B1(1) registered to weather tower. <br/>
+Tower says: Baloon#B2(2) registered to weather tower. <br/>
+Tower says: JetPlane#J1(3) registered to weather tower. <br/>
+Tower says: Helicopter#H1(4) registered to weather tower. <br/>
+Tower says: Helicopter#H2(5) registered to weather tower. <br/>
+Tower says: Helicopter#H3(6) registered to weather tower.<br/> 
+Tower says: Baloon#B3(7) registered to weather tower. <br/>
+Tower says: JetPlane#J2(8) registered to weather tower. <br/>
+Tower says: Helicopter#H4(9) registered to weather tower. <br/>
+
+Simulation: 1 <br/>
+Baloon#B1(1): There is some sun, let's enjoy good weather! <br/>
+Baloon#B2(2): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J1(3): Gamn fog! <br/>
+Helicopter#H1(4): Winter is coming! <br/>
+Helicopter#H2(5): I see no ground! <br/>
+Helicopter#H3(6): It's so hot! <br/>
+Baloon#B3(7): It's rain! It messed up my baloon! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+Helicopter#H4(9): It's so hot! <br/>
+
+Simulation: 2 <br/>
+Baloon#B1(1): I hate fog, I cannot see anything at all! <br/>
+Baloon#B2(2): I hate fog, I cannot see anything at all! <br/>
+JetPlane#J1(3): This sun is getting to my eyes! <br/>
+Helicopter#H1(4): This rain is so depressing... <br/>
+Helicopter#H2(5): Winter is coming! <br/>
+Helicopter#H3(6): I see no ground! <br/>
+Baloon#B3(7): It's rain! It messed up my baloon! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+Helicopter#H4(9): This rain is so depressing... <br/>
+
+Simulation: 3 <br/>
+Baloon#B1(1): It's snowing! We should be more careful! <br/>
+Baloon#B2(2): It's snowing! We should be more careful! <br/>
+JetPlane#J1(3): Watch out for lightnings! <br/>
+Helicopter#H1(4): It's so hot! <br/>
+Helicopter#H2(5): I see no ground! <br/>
+Helicopter#H3(6): It's so hot! <br/>
+Baloon#B3(7): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J2(8): We are going to freeze! <br/>
+Helicopter#H4(9): This rain is so depressing... <br/>
+
+Simulation: 4 <br/>
+Baloon#B1(1): It's rain! It messed up my baloon! <br/>
+Baloon#B2(2): It's snowing! We should be more careful! <br/>
+JetPlane#J1(3): Watch out for lightnings! <br/>
+Helicopter#H1(4): I see no ground! <br/>
+Helicopter#H2(5): It's so hot! <br/>
+Helicopter#H3(6): This rain is so depressing... <br/>
+Baloon#B3(7): It's snowing! We should be more careful! <br/>
+JetPlane#J2(8): Watch out for lightnings! <br/>
+Helicopter#H4(9): This rain is so depressing... <br/>
+
+Simulation: 5 <br/>
+Baloon#B1(1): There is some sun, let's enjoy good weather! <br/>
+Baloon#B2(2): It's rain! It messed up my baloon! <br/>
+JetPlane#J1(3): This sun is getting to my eyes! <br/>
+Helicopter#H1(4): Winter is coming! <br/>
+Tower says: Helicopter#H1(4) unregistered from weather tower. <br/>
+Helicopter#H2(5): It's so hot! <br/>
+Helicopter#H3(6): This rain is so depressing... <br/>
+Baloon#B3(7): I hate fog, I cannot see anything at all! <br/>
+JetPlane#J2(8): We are going to freeze! <br/>
+Helicopter#H4(9): This rain is so depressing... <br/>
+
+Simulation: 6 <br/>
+Baloon#B1(1): There is some sun, let's enjoy good weather! <br/>
+Baloon#B2(2): I hate fog, I cannot see anything at all! <br/>
+JetPlane#J1(3): This sun is getting to my eyes! <br/>
+Helicopter#H2(5): This rain is so depressing... <br/>
+Helicopter#H3(6): It's so hot! <br/> 
+Baloon#B3(7): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J2(8): Watch out for lightnings! <br/>
+Helicopter#H4(9): Winter is coming! <br/>
+
+Simulation: 7 <br/>
+Baloon#B1(1): It's rain! It messed up my baloon! <br/>
+Baloon#B2(2): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J1(3): We are going to freeze! <br/>
+Helicopter#H2(5): It's so hot! <br/>
+Helicopter#H3(6): I see no ground! <br/>
+Baloon#B3(7): I hate fog, I cannot see anything at all! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+Helicopter#H4(9): Winter is coming! <br/>
+
+Simulation: 8 <br/> 
+Baloon#B1(1): There is some sun, let's enjoy good weather! <br/>
+Baloon#B2(2): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J1(3): We are going to freeze! <br/>
+Helicopter#H2(5): Winter is coming! <br/>
+Helicopter#H3(6): Winter is coming! <br/>
+Baloon#B3(7): I hate fog, I cannot see anything at all! <br/>
+JetPlane#J2(8): We are going to freeze! <br/>
+Helicopter#H4(9): This rain is so depressing... <br/>
+
+Simulation: 9 <br/>
+Baloon#B1(1): I hate fog, I cannot see anything at all! <br/>
+Baloon#B2(2): It's rain! It messed up my baloon! <br/>
+JetPlane#J1(3): Watch out for lightnings! <br/>
+Helicopter#H2(5): It's so hot! <br/>
+Helicopter#H3(6): I see no ground! <br/>
+Baloon#B3(7): It's snowing! We should be more careful! <br/>
+Tower says: Baloon#B3(7) unregistered from weather tower. <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+Helicopter#H4(9): This rain is so depressing... <br/>
+
+Simulation: 10 <br/>
+Baloon#B1(1): It's rain! It messed up my baloon! <br/>
+Tower says: Baloon#B1(1) unregistered from weather tower. <br/>
+Baloon#B2(2): It's rain! It messed up my baloon! <br/>
+JetPlane#J1(3): We are going to freeze! <br/>
+Helicopter#H2(5): I see no ground! <br/>
+Helicopter#H3(6): I see no ground! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+Helicopter#H4(9): Winter is coming! <br/>
+
+Simulation: 11 <br/>
+Baloon#B2(2): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J1(3): Gamn fog! <br/>
+Helicopter#H2(5): Winter is coming! <br/>
+Helicopter#H3(6): Winter is coming! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+Helicopter#H4(9): I see no ground! <br/>
+
+Simulation: 12 <br/>
+Baloon#B2(2): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J1(3): We are going to freeze! <br/>
+Helicopter#H2(5): It's so hot! <br/>
+Helicopter#H3(6): It's so hot! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+Helicopter#H4(9): It's so hot! <br/>
+
+Simulation: 13 <br/>
+Baloon#B2(2): I hate fog, I cannot see anything at all! <br/>
+JetPlane#J1(3): This sun is getting to my eyes! <br/>
+Helicopter#H2(5): It's so hot! <br/>
+Helicopter#H3(6): Winter is coming! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+Helicopter#H4(9): Winter is coming! <br/>
+
+Simulation: 14 <br/>
+Baloon#B2(2): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J1(3): Gamn fog! <br/>
+Helicopter#H2(5): Winter is coming! <br/>
+Tower says: Helicopter#H2(5) unregistered from weather tower. <br/>
+Helicopter#H3(6): Winter is coming! <br/>
+JetPlane#J2(8): We are going to freeze! <br/>
+Helicopter#H4(9): Winter is coming! <br/>
+Tower says: Helicopter#H4(9) unregistered from weather tower. <br/>
+
+Simulation: 15 <br/>
+Baloon#B2(2): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J1(3): This sun is getting to my eyes! <br/>
+Helicopter#H3(6): It's so hot! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+
+Simulation: 16 <br/>
+Baloon#B2(2): It's snowing! We should be more careful! <br/>
+JetPlane#J1(3): We are going to freeze! <br/>
+Helicopter#H3(6): This rain is so depressing... <br/>
+JetPlane#J2(8): Gamn fog! <br/>
+
+Simulation: 17 <br/>
+Baloon#B2(2): There is some sun, let's enjoy good weather! <br/>
+JetPlane#J1(3): We are going to freeze! <br/>
+Tower says: JetPlane#J1(3) unregistered from weather tower. <br/>
+Helicopter#H3(6): It's so hot! <br/>
+JetPlane#J2(8): Gamn fog! <br/>
+
+Simulation: 18 <br/>
+Baloon#B2(2): It's rain! It messed up my baloon! <br/>
+Helicopter#H3(6): I see no ground! <br/>
+JetPlane#J2(8): We are going to freeze! <br/>
+
+Simulation: 19 <br/>
+Baloon#B2(2): I hate fog, I cannot see anything at all! <br/>
+Helicopter#H3(6): This rain is so depressing... <br/>
+JetPlane#J2(8): We are going to freeze! <br/>
+
+Simulation: 20 <br/>
+Baloon#B2(2): It's snowing! We should be more careful! <br/>
+Helicopter#H3(6): I see no ground! <br/>
+JetPlane#J2(8): Watch out for lightnings! <br/>
+ 
+Simulation: 21 <br/>
+Baloon#B2(2): I hate fog, I cannot see anything at all! <br/>
+Helicopter#H3(6): I see no ground! <br/>
+JetPlane#J2(8): Gamn fog! <br/>
+
+Simulation: 22 <br/>
+Baloon#B2(2): I hate fog, I cannot see anything at all! <br/>
+Tower says: Baloon#B2(2) unregistered from weather tower. <br/>
+Helicopter#H3(6): I see no ground! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+
+Simulation: 23 <br/>
+Helicopter#H3(6): Winter is coming! <br/>
+JetPlane#J2(8): Watch out for lightnings! <br/>
+
+Simulation: 24 <br/>
+Helicopter#H3(6): It's so hot! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+ 
+Simulation: 25 <br/>
+Helicopter#H3(6): I see no ground! <br/>
+JetPlane#J2(8): This sun is getting to my eyes! <br/>
+
