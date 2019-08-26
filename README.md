@@ -14,8 +14,11 @@ Aim of this project is to implement an aircraft simulation program based on the 
 In the root of project folder run the commands given bellow:
 
 find -name *.java > sources.txt
+
 javac -sourcepath @sources.txt
+
 java -cp src com.company.simulator.Simulator  "scenario.txt"
+
 
 
 ## Or you can use run.sh in the root of project folder. To launch use:
